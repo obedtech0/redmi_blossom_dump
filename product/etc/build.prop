@@ -1,0 +1,38 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=Redmi
+ro.product.product.device=blossom
+ro.product.product.manufacturer=xiaomi
+ro.product.product.model=blossom
+ro.product.product.name=kenvyra_blossom
+ro.product.build.date=Fri Jul 21 23:04:08 IST 2023
+ro.product.build.date.utc=1689960848
+ro.product.build.fingerprint=Redmi/kenvyra_blossom/blossom:13/TQ3A.230705.001/nobody07212304:userdebug/test-keys
+ro.product.build.id=TQ3A.230705.001
+ro.product.build.tags=test-keys
+ro.product.build.type=userdebug
+ro.product.build.version.incremental=eng.nobody.20230721.230502
+ro.product.build.version.release=13
+ro.product.build.version.release_or_codename=13
+ro.product.build.version.sdk=33
+####################################
+# from device/xiaomi/blossom/configs/props/product.prop
+####################################
+# Device specific properties
+import /product/etc/${ro.boot.hwname}.prop
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.build.characteristics=default
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.launcher.blur.appLaunch=0
+ro.apex.updatable=false
+ro.config.notification_sound=Argon.ogg
+ro.config.alarm_alert=Hassium.ogg
+ro.support_one_handed_mode=true
+ro.config.ringtone=Orion.ogg
+# end of file

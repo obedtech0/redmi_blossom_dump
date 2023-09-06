@@ -1,0 +1,19 @@
+## kenvyra_blossom-userdebug 13 TQ3A.230705.001 eng.nobody.20230721.230502 test-keys
+- Manufacturer: xiaomi
+- Platform: mt6765
+- Codename: blossom
+- Brand: Redmi
+- Flavor: kenvyra_blossom-userdebug
+- Release Version: 13
+- Kernel Version: 4.19.127
+- Id: TQ3A.230705.001
+- Incremental: eng.nobody.20230721.230502
+- Tags: test-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: Redmi/kenvyra_blossom/blossom:13/TQ3A.230705.001/nobody07212304:userdebug/test-keys
+- OTA version: 
+- Branch: kenvyra_blossom-userdebug-13-TQ3A.230705.001-eng.nobody.20230721.230502-test-keys
+- Repo: redmi_blossom_dump
