@@ -1,0 +1,19 @@
+## lmodroid_blossom-userdebug 13 TQ3A.230805.001 eng.root.20230902.105426 release-keys
+- Manufacturer: xiaomi
+- Platform: mt6765
+- Codename: blossom
+- Brand: Redmi
+- Flavor: lmodroid_blossom-userdebug
+- Release Version: 13
+- Kernel Version: 4.19.127
+- Id: TQ3A.230805.001
+- Incremental: eng.root.20230902.105426
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: Redmi/lmodroid_blossom/blossom:13/TQ3A.230805.001/root09021049:userdebug/release-keys
+- OTA version: 
+- Branch: lmodroid_blossom-userdebug-13-TQ3A.230805.001-eng.root.20230902.105426-release-keys
+- Repo: redmi_blossom_dump

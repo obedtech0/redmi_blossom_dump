@@ -1,0 +1,35 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=Redmi
+ro.product.product.device=blossom
+ro.product.product.manufacturer=Xiaomi
+ro.product.product.model=aosp_blossom
+ro.product.product.name=lmodroid_blossom
+ro.product.build.date=Sat Sep  2 10:49:21 UTC 2023
+ro.product.build.date.utc=1693651761
+ro.product.build.fingerprint=Redmi/lmodroid_blossom/blossom:13/TQ3A.230805.001/root09021049:userdebug/release-keys
+ro.product.build.id=TQ3A.230805.001
+ro.product.build.tags=release-keys
+ro.product.build.type=userdebug
+ro.product.build.version.incremental=eng.root.20230902.105426
+ro.product.build.version.release=13
+ro.product.build.version.release_or_codename=13
+ro.product.build.version.sdk=33
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+dalvik.vm.systemservercompilerfilter=speed-profile
+ro.build.characteristics=default
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+persist.sys.disable_rescue=true
+ro.sf.blurs_are_expensive=1
+ro.surface_flinger.supports_background_blur=1
+ro.config.notification_sound=Argon.ogg
+ro.config.alarm_alert=Hassium.ogg
+ro.support_one_handed_mode=true
+ro.config.ringtone=Orion.ogg
+# end of file
