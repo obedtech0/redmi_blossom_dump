@@ -1,0 +1,39 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=Redmi
+ro.product.product.device=blossom
+ro.product.product.manufacturer=xiaomi
+ro.product.product.model=arrow_blossom
+ro.product.product.name=arrow_blossom
+ro.build.display.id=TQ3A.230805.001
+ro.product.build.date=Sun Sep 10 02:36:30 IST 2023
+ro.product.build.date.utc=1694293590
+ro.product.build.fingerprint=Redmi/arrow_blossom/blossom:13/TQ3A.230805.001/nobody09100236:userdebug/release-keys
+ro.product.build.id=TQ3A.230805.001
+ro.product.build.tags=release-keys
+ro.product.build.type=userdebug
+ro.product.build.version.incremental=eng.nobody.20230910.000916
+ro.product.build.version.release=13
+ro.product.build.version.release_or_codename=13
+ro.product.build.version.sdk=33
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+dalvik.vm.systemservercompilerfilter=speed-profile
+ro.build.characteristics=default
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.url.legal=http://www.google.com/intl/%s/mobile/android/basic/phone-legal.html
+ro.url.legal.android_privacy=http://www.google.com/intl/%s/mobile/android/basic/privacy.html
+ro.setupwizard.enterprise_mode=1
+setupwizard.feature.predeferred_enabled=false
+ro.setupwizard.mode=OPTIONAL
+ro.com.google.ime.kb_pad_port_b=1
+ro.support_one_handed_mode=true
+ro.config.alarm_alert=Bright_morning.ogg
+ro.config.notification_sound=End_note.ogg
+ro.config.ringtone=The_big_adventure.ogg
+# end of file

@@ -1,0 +1,19 @@
+## arrow_blossom-userdebug 13 TQ3A.230805.001 eng.nobody.20230910.000916 release-keys
+- Manufacturer: xiaomi
+- Platform: mt6765
+- Codename: blossom
+- Brand: Redmi
+- Flavor: arrow_blossom-userdebug
+- Release Version: 13
+- Kernel Version: 4.19.127
+- Id: TQ3A.230805.001
+- Incremental: eng.nobody.20230910.000916
+- Tags: release-keys
+- CPU Abilist: armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: Redmi/arrow_blossom/blossom:13/TQ3A.230805.001/nobody09100236:userdebug/release-keys
+- OTA version: 
+- Branch: arrow_blossom-userdebug-13-TQ3A.230805.001-eng.nobody.20230910.000916-release-keys
+- Repo: redmi_blossom_dump
